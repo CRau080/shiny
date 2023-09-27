@@ -148,7 +148,7 @@
 #' expression given to `bindEvent()`, and not the cache key expression given to
 #' `bindCache()`. In this case, it is just `input$go`.
 #'
-#' @param x An object to wrap so that is triggered only when a the specified
+#' @param x An object to wrap so that is triggered only when the specified
 #'   event occurs.
 #' @param ignoreNULL Whether the action should be triggered (or value
 #'   calculated) when the input is `NULL`. See Details.
